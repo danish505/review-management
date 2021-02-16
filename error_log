@@ -1,0 +1,36 @@
+[14-Sep-2018 11:00:37 America/New_York] PHP Warning:  require(includes/functions.php): failed to open stream: No such file or directory in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 3
+[14-Sep-2018 11:00:37 America/New_York] PHP Warning:  require(includes/functions.php): failed to open stream: No such file or directory in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 3
+[14-Sep-2018 11:00:37 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/functions.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 3
+[14-Sep-2018 11:01:33 America/New_York] PHP Warning:  require(includes/functions.php): failed to open stream: No such file or directory in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 3
+[14-Sep-2018 11:01:33 America/New_York] PHP Warning:  require(includes/functions.php): failed to open stream: No such file or directory in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 3
+[14-Sep-2018 11:01:33 America/New_York] PHP Fatal error:  require(): Failed opening required 'includes/functions.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 3
+[14-Sep-2018 11:03:01 America/New_York] PHP Notice:  Undefined index: created_at in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 8
+[14-Sep-2018 11:03:01 America/New_York] PHP Notice:  Undefined index: status in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 42
+[14-Sep-2018 11:04:49 America/New_York] PHP Notice:  Undefined index: created_at in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 8
+[14-Sep-2018 11:04:49 America/New_York] PHP Notice:  Undefined index: status in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 28
+[14-Sep-2018 11:16:13 America/New_York] PHP Notice:  Undefined index: created_at in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 8
+[14-Sep-2018 11:16:13 America/New_York] PHP Notice:  Undefined index: status in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 42
+[14-Sep-2018 11:27:19 America/New_York] PHP Notice:  Undefined index: created_at in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 8
+[14-Sep-2018 11:27:19 America/New_York] PHP Notice:  Undefined index: status in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 28
+[14-Sep-2018 11:27:19 America/New_York] PHP Fatal error:  Call to undefined function timestamp() in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 29
+[14-Sep-2018 11:27:35 America/New_York] PHP Notice:  Undefined index: created_at in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 8
+[14-Sep-2018 11:27:35 America/New_York] PHP Notice:  Undefined index: status in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 42
+[14-Sep-2018 11:27:35 America/New_York] PHP Fatal error:  Call to undefined function timestamp() in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 43
+[14-Sep-2018 11:28:14 America/New_York] PHP Notice:  Undefined index: created_at in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 8
+[14-Sep-2018 11:28:14 America/New_York] PHP Notice:  Undefined index: status in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 42
+[14-Sep-2018 11:28:14 America/New_York] PHP Fatal error:  Call to undefined function timestamp() in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 43
+[14-Sep-2018 11:28:35 America/New_York] PHP Notice:  Undefined index: created_at in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 8
+[14-Sep-2018 11:28:35 America/New_York] PHP Notice:  Undefined index: status in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 42
+[14-Sep-2018 11:28:35 America/New_York] PHP Fatal error:  Call to undefined function timestamp() in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 43
+[14-Sep-2018 11:30:32 America/New_York] PHP Notice:  Undefined index: username in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 5
+[14-Sep-2018 11:30:32 America/New_York] PHP Notice:  Undefined index: email in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 6
+[14-Sep-2018 11:30:32 America/New_York] PHP Notice:  Undefined index: created_at in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 8
+[14-Sep-2018 11:30:32 America/New_York] PHP Notice:  Undefined index: title in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 25
+[14-Sep-2018 11:30:32 America/New_York] PHP Notice:  Undefined index: comment in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 26
+[14-Sep-2018 11:30:32 America/New_York] PHP Notice:  Undefined index: rating in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 27
+[14-Sep-2018 11:30:32 America/New_York] PHP Notice:  Undefined index: status in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 28
+[14-Sep-2018 11:30:32 America/New_York] PHP Fatal error:  Call to undefined function timestamp() in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 29
+[14-Sep-2018 11:40:03 America/New_York] PHP Notice:  Undefined index: created_at in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 8
+[14-Sep-2018 11:40:03 America/New_York] PHP Notice:  Undefined index: status in /home/kaamdjep/editingsquad.co.uk/reviews/user_review.php on line 42
+[14-Sep-2018 11:42:19 America/New_York] PHP Notice:  Undefined index: email in /home/kaamdjep/editingsquad.co.uk/reviews/index.php on line 3
+[14-Sep-2018 11:42:57 America/New_York] PHP Notice:  Undefined index: email in /home/kaamdjep/editingsquad.co.uk/reviews/index.php on line 3
